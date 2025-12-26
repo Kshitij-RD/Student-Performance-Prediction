@@ -19,7 +19,6 @@ The system is architected with modular components for scalability and maintainab
 * **Machine Learning:** Scikit-Learn, XGBoost
 * **Data Manipulation:** Pandas, NumPy
 * **Visualization:** Matplotlib, Seaborn
-* **Deployment:** Docker (optional/ready for containerization)
 
 ## 📂 Project Structure
 
@@ -37,6 +36,7 @@ The system is architected with modular components for scalability and maintainab
 ├── requirements.txt        # List of dependencies
 ├── setup.py                # Package installer script
 └── README.md               # Project documentation
+```
 
 🧠 Machine Learning Pipeline
 
